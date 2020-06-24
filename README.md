@@ -14,7 +14,7 @@ This is a MP3 player along with playlist feature designed in java using swings a
 
 4) "volume" buttons ie., + and - functions as usual to increase and decrease the volume.
 
-# important
+# -----------------------------important-----------------------------------
    Don't forget to add external jars present in "Libs" folder to the build path to run the application properly.
 
 
