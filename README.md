@@ -15,7 +15,10 @@ This is a MP3 player along with playlist feature designed in java using swings a
 4) "volume" buttons ie., + and - functions as usual to increase and decrease the volume.
 
 # -----------------------------important-----------------------------------
-   Don't forget to add external jars present in "Libs" folder to the build path to run the application properly.
+   To run the application, don't forget to add external JARs present in "Libs" folder to the build path in your IDE.
+   
+   to do that open your project in IDE, right click on your project > build path > configure build path > add external JARs > add the JAR file and click
+   apply and close (this is for eclipse)
 
 
 
